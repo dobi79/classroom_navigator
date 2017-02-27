@@ -41,5 +41,5 @@ minél rövidebb idő alatt, felhasználó folyamatos tájékoztatása, felhaszn
 
 [use_case]: Images/nomnoml_use_case.png
 [phone_home]: Images/home_page.png
-[phonee_search]: Images/navigation_page.png
+[phone_search]: Images/navigation_page.png
 [web_page]: Images/web.png
